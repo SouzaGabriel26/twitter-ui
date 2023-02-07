@@ -2,8 +2,7 @@
   Twitter UI
 </h1>
 
-## Preview
-[Twitter-UI](https://twitter-ui-nu.vercel.app/)
+## Preview - [Twitter-UI](https://twitter-ui-nu.vercel.app/)
 
 <p align="center">
   <img alt="" src=".github/preview.png" width="100%">
