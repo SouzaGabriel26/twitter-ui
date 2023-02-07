@@ -2,6 +2,9 @@
   Twitter UI
 </h1>
 
+## Preview
+[Twitter-UI](https://twitter-ui-nu.vercel.app/)
+
 <p align="center">
   <img alt="" src=".github/preview.png" width="100%">
 </p>
@@ -19,6 +22,7 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido em React, com o intuito de reforçar os conhecimentos básicos sobre essa tecnologia.
+
 
 <br>
 <br>
